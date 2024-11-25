@@ -1,5 +1,7 @@
 # CHALLENGE ONE: CONVERSOR DE MONEDAS.
 
+![Imagen de la pantalla inicial del proyecto.](https://github.com/aa-az/Challenge-ONE-Conversor/blob/main/preview.png)
+
 Este proyecto es parte del Challenge propuesto por la plataforma educativa **ALURA LATAM - ORACLE NEXT EDUCATION**, como parte aplicativa del curso de formación de JAVA.
 
 El proyecto es muy interesante y tiene como finalidad el realizar la conversión de una cantidad determinada por el usuario hacia una moneda determinada por este.
